@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+
+<struts-config>
+ 
+
+  <!-- ========== Definiciones de Form Bean =================== -->
+  <form-beans>
+
+    <form-bean name="logonForm" type="com.osmosislatina.struts.LogonForm"/>
+
+  </form-beans>
+  
+
+  <!-- ==========Forward's  Globales ============================== -->
+  <global-forwards>
+
+     <forward   name="exito"           path="/beanstruts/principal.jsp"/>
+     <forward   name="rechazo"         path="/beanstruts/error.jsp"/>
+
+  </global-forwards>
+
+
+ 
+
+  <!-- ========== Mapeo de Acciones ============================== -->
+
+  <action-mappings>
+
+
+    <action    path="/logon"
+               type="com.osmosislatina.struts.LogonAction"
+               name="logonForm">
+    </action>
+
+
+  </action-mappings>
+
+
+
+
+  <!-- ========== Controller Configuration ======================== -->
+
+  <controller>
+    <set-property property="inputForward" value="true"/>
+  </controller>
+
+ 
+
+  <!-- ========== Message Resources Definitions ==================== -->
+
+  <message-resources
+    parameter="com.osmosislatina.struts.ApplicationResources"/>
+
+
+
+</struts-config>

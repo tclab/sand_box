@@ -1,0 +1,19 @@
+Tareas basadas en localizacion.
+
+Objetivo:El objetivo es crear un método para notificar al usuario que algunas tareas en su lista de tareas pueden ser realizadas según su ubicación actual.
+
+Descripción:
+
+La aplicación debe permitir crear tareas indicando un sitio donde pueda ser realizada y posteriormente notificar al usuario cuando se encuentre a menos de 100 metros a la redonda del sitio indicado.
+
+Los puntos a desarrollar son:
+
+1. Permitir crear una tarea con titulo y descripcion. 10%
+
+2. Mostrar un mapa de Google Maps en el momento de crear una nueva tarea. 20%
+
+3. Permitir puntear sobre el mapa y obtener las coordenadas latitud y longitud del punto y mostrarlas antes de crear la tarea. 20%
+
+4. Notificar al usuario cuando se encuentre a menos de 100 metros a la redonda del sitio indicado para realizar alguna de las tareas creadas. 20%
+
+5. Mostrar la tarea que se puede realizar en esta ubicación (menos de 100 metros a la redonda). 30%

@@ -1,0 +1,6 @@
+map key:
+
+1. Utilizando el comando =  (keytool -list -keystore ~/.android/debug.keystore) en linux... generar la clave MD5
+
+2. Entrar a (http://code.google.com/intl/es-ES/android/maps-api-signup.html) para generar la clave que se pone en el xml que muestra el mapa mediante la declaracion:
+(android:apiKey="0pQSkZ1RC5FTl9iCJYUBwcl86WDMTxEPmU8gA1g")

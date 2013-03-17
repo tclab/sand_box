@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reto Android</string>
+    <string name="no_notes">No Notes Yet</string>
+    <string name="menu_insert">Crear nota</string>
+    <string name="menu_guardarMapa">Guardar</string>
+    <string name="menu_mostrar">Mostrar</string>
+    <string name="menu_delete">Eliminar nota</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_map">Ubicacion</string>
+    <string name="note">Nota</string>
+</resources>

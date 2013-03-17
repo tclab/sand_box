@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+   <name>GE2ADT</name>
+      <Placemark><name>SanFernando</name><description>GE2ADT Route</description><Point><coordinates>-75.5712060347264,6.204027603003744,0</coordinates></Point></Placemark>
+      <Placemark><name>Santillana</name><description>GE2ADT Route</description><Point><coordinates>-75.57268682574605,6.202211344713049,0</coordinates></Point></Placemark>
+      <Placemark><name>Sudameris</name><description>GE2ADT Route</description><Point><coordinates>-75.57178895182933,6.202447718090363,0</coordinates></Point></Placemark>
+      <Placemark><name>Ed. Colmena</name><description>GE2ADT Route</description><Point><coordinates>-75.57246960665968,6.202595424630383,0</coordinates></Point></Placemark>
+</Document>
+</kml>
