@@ -1,0 +1,4 @@
+MAS UTILIDADES:
+
+1. Encriptacion / desifrado de texto
+2. Numerologia a partir del nombre.... ?
