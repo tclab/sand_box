@@ -1,0 +1,9 @@
+MIDlet-1: Ejemplo1,,src.Ejemplo1
+MIDlet-2: Camara,,ejemploClase.SnapperMIDlet
+MIDlet-Jar-Size: 7711
+MIDlet-Jar-URL: Media.jar
+MIDlet-Name: Media
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,8 @@
+MIDlet-3: PointerMidlet, , Estudio.PointerMidlet
+MIDlet-2: ListaMIDlet, , dia2.ListaMIDlet
+MIDlet-1: EjemplolMIDlet, ,dia1.EjemplolMIDlet
+MIDlet-Vendor: Vendor
+MIDlet-Name: Movil1
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

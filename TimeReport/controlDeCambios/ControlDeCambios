@@ -1,0 +1,15 @@
+CONTROL DE CAMBIOS 1
+
+***1. Arreglar: Cuando el numero de fracciones de hora (ej: 0.3= media hora, 0.2= 20 minutos)
+   se pase de 60 minutos añadir una hora.
+***2. En la ventana de consulta se puede elegir que tipo de proyecto mostrar en la lista. Los cerrados
+   los abiertos o todos.
+***3. Cuando se actualicen datos de tareas (numero de tareas, horas trabajadas...) actualizar
+   la pestaña de edicion de proyectos. (limpiarla) ***
+4. Sacar un informe (con jasperReport) con diferentes datos utiles (Trabajo realizado en el mes,
+   informacion general de un proyecto)
+***5. Poner comentarios a las notas para especificar de que se tratan.
+***6. Poner el boton de eliminar tareas fuera de la ventana de edicion. Ponerlo en la ventana
+   de consulta.
+***7. Poner un boton de edicion de tareas en la ventana de consulta.
+***8. Dar la posibilidad de editar la fecha de inicio de una tarea en la ventana de edicion.

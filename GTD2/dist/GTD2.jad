@@ -1,0 +1,8 @@
+MIDlet-1: MidletGTD, ,src.MidletGTD
+MIDlet-Jar-Size: 8910
+MIDlet-Jar-URL: GTD2.jar
+MIDlet-Name: GTD2
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

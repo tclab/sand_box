@@ -1,0 +1,8 @@
+MIDlet-Name: Ejemplo1
+MIDlet-Version: 1.0
+MIDlet-Vendor: Juan
+MicroEdition-Profile: JAVAFX-1.2
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Ejemplo1,,notifier.MailNotifier_MIDlet
+MIDlet-Jar-URL: Ejemplo1.jar
+MIDlet-Jar-Size: 14758

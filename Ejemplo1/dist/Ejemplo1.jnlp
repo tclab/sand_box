@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/D%3A/desarrollo/estudio/netbeans/java/Ejemplo1/dist/" href="Ejemplo1.jnlp">
+    <information>
+        <title>Ejemplo1</title>
+        <vendor>Juan</vendor>
+        <homepage href="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/D%3A/desarrollo/estudio/netbeans/java/Ejemplo1/dist/"/>
+        <description>Ejemplo1</description>
+        <offline-allowed/>
+        <shortcut>
+            <desktop/>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <jar href="Ejemplo1.jar" main="true"/>
+    </resources>
+    <application-desc main-class="com.sun.javafx.runtime.main.Main">
+        <argument>MainJavaFXScript=notifier.MailNotifier</argument>
+    </application-desc>
+    <update check="background">
+</jnlp>

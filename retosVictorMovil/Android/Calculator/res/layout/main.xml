@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/hello" />
+	<EditText android:id="@+id/primernumero" android:numeric="decimal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content" />
+	<EditText android:id="@+id/segundonumero" android:numeric="decimal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content" />
+	<ListView android:id="@+id/myOperator" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:scrollbars="vertical" />
+	<EditText android:id="@+id/resultado" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+	<Button android:id="@+id/salir" android:text="@string/salir"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:scrollbars="vertical" />
+
+</LinearLayout>
