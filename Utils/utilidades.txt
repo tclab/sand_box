@@ -1,0 +1,12 @@
+UTILIDADES A IMPLEMENTAR:
+
+1. Encriptador / decodificador
+2. Calculadora
+3. Transformar textos de minusculas a mayusculas
+4. Numeros en lcd
+5. Numeros romanos
+6. Hallar la ruta con distancia minima entre dos nodos de un grafo
+7. Mostrar la fecha actual
+8. Mostrar pares de situaciones aleatoriamente (creatividad)
+9. Directorio telefonico
+10. Cadena seinfield
