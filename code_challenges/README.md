@@ -1,2 +1,2 @@
-Code challenges
+code_challenges
 ===============
