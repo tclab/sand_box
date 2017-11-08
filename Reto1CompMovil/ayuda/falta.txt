@@ -1,5 +1,0 @@
-POR HACER:
-
-1. Organizar cambio de color de dibujo (que no se borre el dibujo)
-2. Guardar dibujos
-3. Traer dibujos guardados

@@ -1,0 +1,9 @@
+MIDlet-1: Reto1 - Dibujo,,Reto.Reto1
+MIDlet-2: VisualMIDlet, , Ejemplos.VisualMIDlet
+MIDlet-Jar-Size: 6258
+MIDlet-Jar-URL: Reto1CompMovil.jar
+MIDlet-Name: Reto1CompMovil
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
